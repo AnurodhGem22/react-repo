@@ -5,7 +5,7 @@
   "type": "module",
   "homepage": "https://AnurodhGem22.github.io/react-repo",
   "scripts": {
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
